@@ -19,7 +19,7 @@ export class StockItemsMockService implements StockItemsApi {
       {
         id: "2",
         name: "Heisenberg compensator",
-        description: "Magical component that negates the effects of the Heisenberg Uncertainty Principle",
+        description: "Magical component that negates the effects of the Heisenberg Uncertainty Principles",
         stock: 20,
         unitPrice: 20.0,
         picture: "https://via.placeholder.com/32.png",
